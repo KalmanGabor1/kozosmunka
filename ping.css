@@ -1,0 +1,56 @@
+body{
+    background-image:linear-gradient(blue,black)
+}
+p{
+    font-size:15px;
+    line-height:20px;
+    color:azure;
+
+}
+h1{
+    font-size:20px;
+    color:azure;
+    font-weight:bold;
+}
+h2{
+    font-size:18px;
+    color:azure;
+    font-weight:bold;
+}
+
+    
+
+#kep{
+    border:2px solid black;
+    height:200px;
+    width:250px;
+    float:right;
+}
+#pingv{
+    margin:auto;
+    width:50%;
+    padding:5px;
+    background-image:linear-gradient(blue,white)
+}
+table,td,th{
+    width:250px;
+    
+    text-align:center;
+    border:1px solid black;
+    border-collapse:collapse;
+    color:azure
+}
+a{
+    color:white;
+}
+#focim{
+    text-align:center;
+    font-size:25px;
+    font-weight:bold;
+    color:azure;
+}
+#kep{
+    float:right;
+    width:200px;
+    height:250px;
+}
