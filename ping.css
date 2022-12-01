@@ -17,24 +17,28 @@ h2{
     color:azure;
     font-weight:bold;
 }
-
-    
-
-#kep{
+#felsokep{
     border:2px solid black;
     height:200px;
-    width:250px;
+    width:200px;
+    float:right;
+}
+    
+
+#alsokep{
+    border:2px solid black;
+    height:250px;
+    width:200px;
     float:right;
 }
 #pingv{
     margin:auto;
     width:50%;
     padding:5px;
-    background-image:linear-gradient(blue,white)
+    
 }
 table,td,th{
     width:250px;
-    
     text-align:center;
     border:1px solid black;
     border-collapse:collapse;
@@ -49,8 +53,6 @@ a{
     font-weight:bold;
     color:azure;
 }
-#kep{
+#elterjedes{
     float:right;
-    width:200px;
-    height:250px;
 }
