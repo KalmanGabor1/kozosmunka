@@ -1,20 +1,21 @@
 body{
-    background-image:linear-gradient(blue,black)
+    background-color:slategray ;
 }
 p{
     font-size:15px;
     line-height:20px;
-    color:azure;
+    color:beige;
 
 }
 h1{
     font-size:20px;
-    color:azure;
+    color:beige;
     font-weight:bold;
+    text-decoration:underline;
 }
 h2{
     font-size:18px;
-    color:azure;
+    color:beige;
     font-weight:bold;
 }
 #felsokep{
@@ -40,19 +41,22 @@ h2{
 table,td,th{
     width:250px;
     text-align:center;
-    border:1px solid black;
+    border:1px solid beige;
     border-collapse:collapse;
-    color:azure
+    color:beige;
 }
 a{
-    color:white;
+    color:beige;
 }
 #focim{
     text-align:center;
     font-size:25px;
     font-weight:bold;
-    color:azure;
+    color:beige;
 }
 #elterjedes{
     float:right;
+}
+#lista{
+    color:beige;
 }
